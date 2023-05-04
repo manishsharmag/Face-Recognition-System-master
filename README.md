@@ -20,13 +20,13 @@ We seek to provide a valuable attendance service for both teachers and students.
 
 ## Screenshots :camera:
 -----------------------------------
-### Command Line Interface
+### Interface
 
-![Command Line Interdace](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/1.PNG)
+![Interdace](https://drive.google.com/file/d/1layCqMD6LG-A2wi3FI_sahUewCvtoQKi/view?usp=share_link)
 
 ### Checking Camera
 
-![Checking Camera](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/2.PNG)
+![Checking Camera](https://drive.google.com/file/d/1lW2pB6FJAbc5eYAt9D90dY6wpmAIibXj/view?usp=share_link)
 
 ### Automail 
 
