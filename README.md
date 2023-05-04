@@ -22,11 +22,11 @@ We seek to provide a valuable attendance service for both teachers and students.
 -----------------------------------
 ### Interface
 
-![Interdace](https://drive.google.com/file/d/1layCqMD6LG-A2wi3FI_sahUewCvtoQKi/view?usp=share_link)
+![Interdace](https://github.com/manishsharmag/Face-Recognition-System-master/blob/74eb808e94678adf14d1fa19d545a64696db8c5e/images/Screenshot%202023-05-04%20070944.png)
 
 ### Checking Camera
 
-![Checking Camera](https://drive.google.com/file/d/1lW2pB6FJAbc5eYAt9D90dY6wpmAIibXj/view?usp=share_link)
+![Checking Camera](https://github.com/manishsharmag/Face-Recognition-System-master/blob/74eb808e94678adf14d1fa19d545a64696db8c5e/images/Screenshot%20(171).png)
 
 ### Automail 
 
@@ -36,7 +36,7 @@ We seek to provide a valuable attendance service for both teachers and students.
 ## Tech Used :computer:
 --------------------------
 Build With - 
-* Python 3.7
+* Python 3.10
 
 Module Used -
 
@@ -55,7 +55,6 @@ Face Recognition Algorithms -
 * LBPH (Local Binary Pattern Histogram)
 
 Software Used -
-* Pycharm 2019.2
 * VS CODE 
 * Git
 
@@ -66,13 +65,13 @@ Software Used -
 
 First Download or Clone the Project on Your Local Machine.To download the project from github press **Download Zip**
 
-![Download Zip](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/download%20zip.png)
+![Download Zip](https://github.com/manishsharmag/Face-Recognition-System-master/blob/74eb808e94678adf14d1fa19d545a64696db8c5e/images/Screenshot%202023-05-04%20072039.png)
 
 or 
 
 You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
 ```
-git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
+git clone https://github.com/manishsharmag/Face-Recognition-System-master.git
 ```
 demo 
 
