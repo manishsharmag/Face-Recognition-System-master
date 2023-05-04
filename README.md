@@ -1,7 +1,7 @@
-# Face-Recognition-Attendance-System
+# Face-Recognition-System
 
 
-### Recognize The faces And Take Automatic Attandance. :sparkles:
+### Get yourself recognised. :sparkles:
 
 ![Face Recognition Logo](https://github.com/manishsharmag/Face-Recognition-System-master/blob/51fcc38d08cce080d21d17406791c8a2c0cbed9b/images/Face%20recognition.png)
 
