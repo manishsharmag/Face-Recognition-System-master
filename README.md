@@ -3,7 +3,7 @@
 
 ### Recognize The faces And Take Automatic Attandance. :sparkles:
 
-![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
+![Face Recognition Logo](https://github.com/manishsharmag/Face-Recognition-System-master/blob/51fcc38d08cce080d21d17406791c8a2c0cbed9b/images/Face%20recognition.png)
 
 
 ## Motivation :astonished:
@@ -30,7 +30,7 @@ We seek to provide a valuable attendance service for both teachers and students.
 
 ### Automail 
 
-![Automail](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/automail.jpg)
+![Automail]Add the credential of your email in automail.py file for this to work.
 
 
 ## Tech Used :computer:
@@ -73,9 +73,6 @@ You can clone the project with git bash.To clone the project using git bash firs
 ```
 git clone https://github.com/manishsharmag/Face-Recognition-System-master.git
 ```
-demo 
-
-![Git clone](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/git%20clone_edit_0.gif)
 
 After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
 
@@ -96,8 +93,6 @@ If your pc don't have virtual enviroment or pip install the follow this link.
 --------------------------------------------------
 
 After creating the enviroment on your project let's install the necessary packages. 
-
-![pip isntall demo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/pip%20install_edit_0.gif)
 
 To install those package open the terminal or command line and paste the code from below
 
@@ -132,9 +127,6 @@ After creating the enviroment and installing the packages, open the IDE terminal
 ```
 py main.py
 ```
-Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
-
-![Test Run](https://drive.google.com/file/d/1WxcgGehf0aIxdaJ68ThN5BDfsoXOQBfP/view?usp=sharing)
 
 ## How To Use? :pencil:
 ----------------------
