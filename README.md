@@ -8,7 +8,7 @@
 
 ## Motivation :astonished:
 ----------------------------
-We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
+Just to help the students like us to submit a project easily.
 
 ## Features :clipboard:
 ---------------------------
